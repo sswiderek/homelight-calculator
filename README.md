@@ -1,85 +1,93 @@
-HomeLight Loan Officer Value Calculator
+*this is an unofficial calculator not affiliated or endorsed by HomeLight in any way
 
-📋 Project Overview
+<h1>🌟 HomeLight Loan Officer Value Calculator</h1>
 
-The HomeLight Loan Officer Value Calculator is a web-based tool designed to help loan officers estimate the additional value they can generate by using HomeLight's Buy Before You Sell (BBYS) program. The calculator provides insights into potential increases in monthly deals, annual commission, and referrals.
+An interactive tool designed to help loan officers estimate the potential value they can generate by using HomeLight’s Buy Before You Sell (BBYS) program. The calculator provides insights into potential increases in monthly deals, annual commission, and referrals.
 
-💻 Live Demo
+<h2>📋 Features</h2>
 
-You can view the live version of the calculator here:
-https://yourusername.github.io/loan-officer-calculator/
+- Input fields for average home price, loan commission rate, deals closed per month, conversion rate, and referral rate.
 
-🗂️ Project Structure
+- Real-time calculations of:
 
-File
+  - Additional Monthly Deals
 
-Description
+  - Additional Annual Commission
 
-index.html
+  - New Customer Conversion Rate
 
-The main HTML file for the calculator.
+  - Referral Business Growth
 
-style.css
+- Clean and professional user interface matching HomeLight’s brand style.
 
-The CSS file for styling the calculator.
+<h2>🚀 How to Use</h2>
 
-script.js
+1. Visit the live calculator at: sswiderek.github.io/homelight-calculator
 
-The JavaScript file for calculator logic.
+2. Enter your market details:
 
-homelight-logo.jpg
+    - Average Home Price
 
-Logo used in the calculator header.
+    - Loan Commission Rate
 
-homelight-background.jpg
+    - Deals Closed Per Month
 
-Background image for the calculator.
+    - Conversion Rate Increase with BBYS
 
-🚀 How to Run the Project Locally
+    - Referral Rate Increase
 
-Clone the repository:
+3. Click **"Calculate Value"** to view your potential results.
 
-git clone https://github.com/yourusername/loan-officer-calculator.git
+4. Adjust the inputs to explore various scenarios.
 
-Navigate to the project folder:
+<h2>🎨 Design and Branding</h2>
 
-cd loan-officer-calculator
+The calculator has been styled to align with HomeLight’s branding, incorporating a modern and professional look.
 
-Open the index.html file in your browser:
+**Key design elements:**
 
-Open index.html
+- Clean and light color palette with shades of blue.
 
-🛠️ Technologies Used
+- Simple typography for easy readability.
 
-HTML5 for structuring the calculator.
+- Responsive design for both desktop and mobile viewing.
 
-CSS3 for styling the user interface.
+<h2>🛠️ How to Run Locally</h2>
 
-JavaScript for interactive functionality.
+Follow these steps to run the calculator locally on your machine:
 
-📈 Features
+**1. Clone the repository:**
 
-Input fields for loan officers to provide their market details.
+git clone https://github.com/sswiderek/homelight-calculator.git
 
-Real-time calculation of additional monthly deals, annual commission, and referrals.
+**2. Navigate to the project folder:**
 
-Responsive design for desktop and mobile devices.
+cd homelight-calculator
 
-📂 Repository Structure
+**3. Open the index.html file in your browser:**
 
-loan-officer-calculator/
-├── index.html
-├── style.css
-├── script.js
-├── homelight-logo.jpg
-└── homelight-background.jpg
+open index.html
 
-📝 License
+<h2>📂 Project Structure</h2>
 
-This project is licensed under the MIT License.
+**- index.html** – The core HTML file containing the calculator’s structure.
 
-📧 Contact
+**- style.css** – Custom styling for a professional and branded user experience.
 
-For any questions or suggestions, feel free to reach out:
+**- script.js** – JavaScript logic for handling calculations and dynamic interactions.
 
-Shane Swiderek
+**- homelight-logo.jpg** – The HomeLight logo displayed at the top of the calculator.
+
+**- homelight-background.jpg** – The background image for the calculator.
+
+<h2>🤝 Contributions</h2>
+
+We welcome contributions! If you’d like to improve the calculator or suggest features, feel free to fork the repo and submit a pull request.
+
+<h2>📧 Contact</h2>
+
+For any questions or suggestions, feel free to reach out at:
+
+📩 s.swiderek@gmail.com
+
+🎉 **Thank You for Using the Unofficial HomeLight Loan Officer Value Calculator!** Together, let’s empower loan officers to grow their business and improve customer experiences.
